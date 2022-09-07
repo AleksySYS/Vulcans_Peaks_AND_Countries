@@ -1,4 +1,7 @@
 print("ssssssssssssss")
 print("aaaaaaaaaaa")
-print("XXX11")
-print("X2")
+print("Check1")
+
+print("All good")
+
+print("X1")
