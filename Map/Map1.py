@@ -15,7 +15,6 @@ for lt, ln  in zip(lat, lon):
     fg.add_child(folium.Marker(location=[lt, ln], popup="Volcano", icon=folium.Icon(color='green')))
 
 map.add_child(fg)
-
 map.save("Map1.html")
 
 
