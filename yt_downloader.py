@@ -10,4 +10,4 @@ print("View: ", yt.views)
 
 yd = yt.streams.get_highest_resolution()
 
-yd.download('/Users/aadamczyk/Desktop/pobrane')
+yd.download('/Users/majst/Desktop/')

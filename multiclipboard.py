@@ -2,7 +2,7 @@ import clipboard
 import sys
 import json
 
-data = cl.paste()
+data = clipboard.paste()
 print(data)
 
 
